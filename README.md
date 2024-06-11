@@ -1,4 +1,6 @@
 <h1 align="center">FileStreamBot</h1>
+
+![Deploy](https://heroku.com/deploy?template=https://github.com/imgaurav-17/FileStreamBot.git)
 <p align="center">
   <a href="https://github.com/Avipatilpro/FileStreamBot">
     <img src="https://graph.org/file/80d1f94e81bbc1acadb36.jpg" alt="Cover Image" width="550">
